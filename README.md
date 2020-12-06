@@ -1,1 +1,1 @@
-![GitHub Logo](/banner-gif-edited-2.gif)
+![GitHub Logo](/banner-img.gif)
